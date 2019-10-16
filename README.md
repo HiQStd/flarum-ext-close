@@ -1,4 +1,4 @@
-# Dddd
+# flarum-ext-close
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/hiqstd/flarum-ext-close.svg)](https://packagist.org/packages/hiqstd/flarum-ext-close)
 
@@ -10,6 +10,7 @@ Use [Bazaar](https://discuss.flarum.org/d/5151-flagrow-bazaar-the-extension-mark
 
 ```sh
 composer require hiqstd/flarum-ext-close
+php flarum migrate
 ```
 
 ### Updating
