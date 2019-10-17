@@ -1,6 +1,6 @@
 {
 	"name": "hiqstd/flarum-ext-close",
-	"description": "Make your discussions that other people can't see.",
+	"description": "Make closed discussions and other people can't see a content",
 	"keywords": [
 		"extension", "flarum", "discussion", "private", "restricted", "close"
 	],
